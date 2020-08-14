@@ -1,1 +1,1 @@
-Just realisations of some algos
+Just implementations of some algos
